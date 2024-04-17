@@ -1,0 +1,18 @@
+.header{
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.nav{
+    color:aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+.main{
+    color:green;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    color:blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
